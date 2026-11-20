@@ -39,7 +39,7 @@ A powerful, all-in-one command-line and interactive utility to download **Apple 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/lvtik/ipswtool.git
+git clone https://github.com/abbaslv/ipswtool.git
 cd ipswtool
 ```
 ### 2. Create .venv
@@ -125,4 +125,4 @@ If you see anything in the console related to these specific keywords(ERR, trace
 # 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Built with ❤️ by [lvtik](https://github.com/lvtik)
+Built with ❤️ by [abbaslv](https://github.com/abbaslv)

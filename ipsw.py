@@ -145,7 +145,7 @@ def menu():
             if itunes_url:
                 download_ipsw(itunes_url, BASE_DIR)
         elif choice == 3: 
-            print("Help can be accessed by visiting https://github.com/lvtik/ipswtool")
+            print("Help can be accessed by visiting https://github.com/abbaslv/ipswtool")
             input("Press ENTER to continue....")
         else: exit()
 
